@@ -1,0 +1,525 @@
+{
+  "generatedAt": "2026-09-25T10:22:27.407Z",
+  "source": "https://bhaktipaths.com/audio, https://bhaktipaths.com/video",
+  "tracks": [
+    {
+      "title": "Humari Pranam Shree Banke Bihari",
+      "slug": "humari-pranam-shree-banke-bihari",
+      "artist": "Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/67d69214e2d66Humari_Pranam_Shree_Banke_Bihari.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/67d6921a0f99cbanke-bihari.jpg",
+      "duration": "7:32",
+      "playCount": 2,
+      "featured": false
+    },
+    {
+      "title": "Radha Gori Gori",
+      "slug": "radha-gori-gori",
+      "artist": "Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/67d6881a242bdRadha_Gori_Gori.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/67d688c6863d9radha-gori-gori.jpg",
+      "duration": "5:54",
+      "playCount": 3,
+      "featured": false
+    },
+    {
+      "title": "Shri Radhashtami - Pyaro Radha Rani",
+      "slug": "shri-radhashtami-pyaro-radha-rani",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/659075e41908dShri_Radhashtami_Pyaro_Radha_Rani_क_नम_with_Lyrics_Pujya_Shri_Indresh_Upadhyay_Ji_BhaktiPath.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/659075ca89e6bbhaktipath.png",
+      "duration": "6:24",
+      "playCount": 4,
+      "featured": false
+    },
+    {
+      "title": "Charanan Ki Balihari",
+      "slug": "charanan-ki-balihari",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/659074996fe64शर_चरण_बलहर_कशर_ज_क_Charanan_ki_balihari_with_Lyrics_Pujya_Shri_Indresh_Upadhyay_Ji.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/6590745217556bhaktipath.png",
+      "duration": "8:56",
+      "playCount": 5,
+      "featured": false
+    },
+    {
+      "title": "Girdhar Lal Ji - Mangla Aarti",
+      "slug": "girdhar-lal-ji-mangla-aarti",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Aarti",
+      "audioUrl": "https://bhaktipaths.com/uploads/659073db45e3fGirdhar_Lal_ji_Mangla_Aarti_2021.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/6590733e5c5b9bhaktipath19.png",
+      "duration": "20:20",
+      "playCount": 6,
+      "featured": false
+    },
+    {
+      "title": "Hari Ka Bhajan Karo",
+      "slug": "hari-ka-bhajan-karo",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/65906f618f843Hari_Ka_Bhajan_Karo_Live_Bhajan_by_Shri_Indresh_Ji_BhaktiPath_Official.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/65906ba5129a7bhaktipath18.png",
+      "duration": "13:0",
+      "playCount": 7,
+      "featured": false
+    },
+    {
+      "title": "Gopi Geet",
+      "slug": "gopi-geet",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/65906fb13b421गप_गत_Gopi_Geet_With_Hindi_Lyrics_Pujya_Shri_Indresh_Upadhyay_Ji_Maharaj.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/65906ae887f7bbhaktipath17.png",
+      "duration": "16:57",
+      "playCount": 8,
+      "featured": false
+    },
+    {
+      "title": "Aage Gaay Peeche Gaay",
+      "slug": "aage-gaay-peeche-gaay",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Pad",
+      "audioUrl": "https://bhaktipaths.com/uploads/6590700221704पद_आग_गय_पछ_गय_Shri_Indresh_Ji_Pathmeda_Gaudham_BhaktiPath_Gopashtmi.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/65906a414d0e2bhaktipath16.png",
+      "duration": "13:18",
+      "playCount": 9,
+      "featured": false
+    },
+    {
+      "title": "Pyasi Ankhiyan Hari Darshan Ki",
+      "slug": "pyasi-ankhiyan-hari-darshan-ki",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Pad",
+      "audioUrl": "https://bhaktipaths.com/uploads/65907052a6d6dपद_Pyasi_Ankhiyan_Hari_Darshan_Ki_Shri_Indresh_Ji_LIVE_Shri_Surdas_JI_BhaktiPath.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/65906997b2238bhaktipath15.png",
+      "duration": "5:55",
+      "playCount": 10,
+      "featured": false
+    },
+    {
+      "title": "Govardhan Wasi Sanwarey",
+      "slug": "govardhan-wasi-sanwarey",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Pad",
+      "audioUrl": "https://bhaktipaths.com/uploads/6590708d579edGovardhan_Wasi_Sanwarey_Shri_Chaturbhuj_Das_Shri_Indresh_Ji_BhaktiPath_Official.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/659068b51b8f6bhaktipath14.png",
+      "duration": "17:58",
+      "playCount": 11,
+      "featured": false
+    },
+    {
+      "title": "Hume Shyam Na Mila / Sun Radhika Dulari",
+      "slug": "hume-shyam-na-mila-sun-radhika-dulari",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/659070c977d98हम_शयम_न_मल_शर_इनदरश_ज_BhaktiPath.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/659067687d83abhaktipath13.png",
+      "duration": "9:36",
+      "playCount": 12,
+      "featured": false
+    },
+    {
+      "title": "Mai Bairagan",
+      "slug": "mai-bairagan",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/65904aec9eae0Mai_Bairagan_Shri_Indresh_Upadhyay_Ji_Bhaktimati_Meera_Baiji_BhaktiPath.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/65904a902238abhaktipath7.png",
+      "duration": "6:0",
+      "playCount": 13,
+      "featured": true
+    },
+    {
+      "title": "Mujhko Radharaman Kardo Aesa Magan",
+      "slug": "mujhko-radharaman-kardo-aesa-magan",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/659045884a4a6Mujhko_Radharaman_Kardo_Aesa_Magan_Reprise_Bhajan_Pujya_Shri_Indresh_Upadhyay_Ji.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/6590451e0ee14bhaktipath.png",
+      "duration": "4:57",
+      "playCount": 14,
+      "featured": false
+    },
+    {
+      "title": "Vrindavan Rasamrit",
+      "slug": "vrindavan-rasamrit",
+      "artist": "Pujya Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Pad",
+      "audioUrl": "https://bhaktipaths.com/uploads/65759216ac16cवदवन_रसमत_Vrindavan_Rasamrit_-_Pujya_Shri_Indresh_Upadhyay_Ji_Maharaj_TubeRipper_com.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/659047102edb4bhaktipath1.png",
+      "duration": "14:37",
+      "playCount": 15,
+      "featured": false
+    },
+    {
+      "title": "Bhramar Geet",
+      "slug": "bhramar-geet",
+      "artist": "Pujya Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Pad",
+      "audioUrl": "https://bhaktipaths.com/uploads/6575918f94e64भरमर_गत_Bhramar_Geet_with_Lyrics_-_Pujya_Shri_Indresh_Upadhyay_Ji_Maharaj_TubeRipper_com.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/6590475a5a56ebhaktipath2.png",
+      "duration": "11:34",
+      "playCount": 16,
+      "featured": false
+    },
+    {
+      "title": "Govind Damodar Madhaveti",
+      "slug": "govind-damodar-madhaveti",
+      "artist": "Pujya Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Pad",
+      "audioUrl": "https://bhaktipaths.com/uploads/657590ed62c84Govind_Damodar_Madhaveti_-_Pujya_Shri_Indresh_Upadhyay_Ji_BhaktiPath_TubeRipper_com.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/659047f83c913bhaktipath4.png",
+      "duration": "7:23",
+      "playCount": 17,
+      "featured": false
+    },
+    {
+      "title": "Jhulat Shyam Hindore",
+      "slug": "jhulat-shyam-hindore",
+      "artist": "Pujya Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Pad",
+      "audioUrl": "https://bhaktipaths.com/uploads/657590877799aपद-_शर_सरदस_ज_Jhulat_Shyam_Hindore_-_Pujya_Shri_Indresh_Upadhyay_Ji_BhaktiPath_TubeRipper_com.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/659048621b226bhaktipath5.png",
+      "duration": "11:32",
+      "playCount": 18,
+      "featured": false
+    },
+    {
+      "title": "Geet Govind",
+      "slug": "geet-govind",
+      "artist": "Pujya Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Pad",
+      "audioUrl": "https://bhaktipaths.com/uploads/65757cb16a71aगत_गवनद_-_Geet_Govind_with_Lyrics_-_Pujya_Shri_Indresh_Upadhyay_Ji_BhaktiPath_TubeRipper_com.mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/65757df7d697ead.jpg",
+      "duration": "12:21",
+      "playCount": 19,
+      "featured": false
+    },
+    {
+      "title": "Radha Ramanam Hare Hare",
+      "slug": "radha-ramanam-hare-hare",
+      "artist": "Shri Indresh Upadhyay Ji",
+      "album": "Bhaktipath Bhajan",
+      "audioUrl": "https://bhaktipaths.com/uploads/65756d8b10c8bRadha_Ramanam_Hare_Hare_-_Shri_Indresh_Upadhyay_Ji___BhaktipathAnthem_(128_kbps).mp3",
+      "coverArtUrl": "https://bhaktipaths.com/uploads/659048b391e66bhaktipath6.png",
+      "duration": "14:41",
+      "playCount": 20,
+      "featured": true
+    }
+  ],
+  "videos": [
+    {
+      "title": "Radhavallabh Lal Rakhiyo Charnan Mein",
+      "slug": "radhavallabh-lal-rakhiyo-charnan-mein",
+      "category": "Bhaktipath Bhajan",
+      "youtubeId": "nWT45iYVXag",
+      "featured": true
+    },
+    {
+      "title": "Ban Piy Chang Udave",
+      "slug": "ban-piy-chang-udave",
+      "category": "Bhaktipath Bhajan",
+      "youtubeId": "gYyPz9tKI14",
+      "featured": true
+    },
+    {
+      "title": "Girdhar Lal Humare",
+      "slug": "girdhar-lal-humare",
+      "category": "Bhaktipath Bhajan",
+      "youtubeId": "4sq1rLQSYrE",
+      "featured": true
+    },
+    {
+      "title": "Radha Gori Gori",
+      "slug": "radha-gori-gori",
+      "category": "Bhaktipath Bhajan",
+      "youtubeId": "gVJcjy3ejdY",
+      "featured": true
+    },
+    {
+      "title": "Day - 7 | Shrimad Bhagwat Katha Live",
+      "slug": "day-7-shrimad-bhagwat-katha-live",
+      "category": "Shrimad Bhagwat Katha",
+      "youtubeId": "LJvuJFG0wN0",
+      "featured": false
+    },
+    {
+      "title": "Shrimad Bhagwat Katha Live",
+      "slug": "shrimad-bhagwat-katha-live",
+      "category": "Shrimad Bhagwat Katha",
+      "youtubeId": "SMQ0tW7McJc",
+      "featured": false
+    },
+    {
+      "title": "Radha Ramanam Hare Hare",
+      "slug": "radha-ramanam-hare-hare",
+      "category": "Bhaktipath Bhajan",
+      "youtubeId": "_CWcBWSKItk",
+      "featured": false
+    },
+    {
+      "title": "Nainan Me Rakhu",
+      "slug": "nainan-me-rakhu",
+      "category": "Bhaktipath Bhajan",
+      "youtubeId": "59zYbAeBLeM",
+      "featured": false
+    },
+    {
+      "title": "Day 7 || Akinchan Katha Live",
+      "slug": "day-7-akinchan-katha-live",
+      "category": "Akinchan Katha",
+      "youtubeId": "JNWBVfBAPss",
+      "featured": false
+    },
+    {
+      "title": "Day 6 || Akinchan Katha Live",
+      "slug": "day-6-akinchan-katha-live",
+      "category": "Akinchan Katha",
+      "youtubeId": "HCm6QVXCDD0",
+      "featured": false
+    },
+    {
+      "title": "Day 5 || Akinchan Katha Live",
+      "slug": "day-5-akinchan-katha-live",
+      "category": "Akinchan Katha",
+      "youtubeId": "n8PTXSazRwg",
+      "featured": false
+    },
+    {
+      "title": "Day 4 || Akinchan Katha Live",
+      "slug": "day-4-akinchan-katha-live",
+      "category": "Akinchan Katha",
+      "youtubeId": "QdlR8IKuixE",
+      "featured": false
+    },
+    {
+      "title": "Day 3 || Akinchan Katha Live",
+      "slug": "day-3-akinchan-katha-live",
+      "category": "Akinchan Katha",
+      "youtubeId": "yAih2D105Xk",
+      "featured": false
+    },
+    {
+      "title": "Day 2 || Akinchan Katha Live",
+      "slug": "day-2-akinchan-katha-live",
+      "category": "Akinchan Katha",
+      "youtubeId": "4mIvVfOK0B8",
+      "featured": false
+    },
+    {
+      "title": "Day 1 || Akinchan Katha Live",
+      "slug": "day-1-akinchan-katha-live",
+      "category": "Akinchan Katha",
+      "youtubeId": "z9iYeFT_Kvo",
+      "featured": false
+    },
+    {
+      "title": "Mai Bairagan",
+      "slug": "mai-bairagan",
+      "category": "Bhaktipath Bhajan",
+      "youtubeId": "LLAvgTeXXy8",
+      "featured": false
+    },
+    {
+      "title": "DAY 8 || Shrimad Bhagwad Katha",
+      "slug": "day-8-shrimad-bhagwad-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "zWeyQXwnz_Q",
+      "featured": false
+    },
+    {
+      "title": "DAY 7 || Shrimad Bhagwad Katha",
+      "slug": "day-7-shrimad-bhagwad-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "VDh3pCOEizk",
+      "featured": false
+    },
+    {
+      "title": "DAY 6 || Shrimad Bhagwad Katha",
+      "slug": "day-6-shrimad-bhagwad-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "uLbrP976fAs",
+      "featured": false
+    },
+    {
+      "title": "DAY 5 || Shrimad Bhagwad Katha",
+      "slug": "day-5-shrimad-bhagwad-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "DQCcS_T5JTs",
+      "featured": false
+    },
+    {
+      "title": "DAY 4 || Shrimad Bhagwad Katha",
+      "slug": "day-4-shrimad-bhagwad-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "mmwn7AEk3Y0",
+      "featured": false
+    },
+    {
+      "title": "DAY 3 || Shrimad Bhagwad Katha",
+      "slug": "day-3-shrimad-bhagwad-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "bvRaLOg2KV8",
+      "featured": false
+    },
+    {
+      "title": "आगे गाय पाछे गाय",
+      "slug": "xlUaHdWJPv4",
+      "category": "Bhaktipath Pad",
+      "youtubeId": "xlUaHdWJPv4",
+      "featured": false
+    },
+    {
+      "title": "श्री गिरधर लाल जी हिंडोला उत्सव",
+      "slug": "2PONe2l9Iuc",
+      "category": "Bhaktipath Utsav",
+      "youtubeId": "2PONe2l9Iuc",
+      "featured": false
+    },
+    {
+      "title": "Mero Mukh Neeko Ki Tero Radhe Pyari",
+      "slug": "mero-mukh-neeko-ki-tero-radhe-pyari",
+      "category": "Bhaktipath Pad",
+      "youtubeId": "r0BqDK7o-A0",
+      "featured": false
+    },
+    {
+      "title": "भागीरथ भट्ट द्वारा सितार वादन एवं अनुराक्षी गोस्वामी द्वारा नृत्य सेवा",
+      "slug": "lWGtlbh3NNA",
+      "category": "Bhaktipath Utsav",
+      "youtubeId": "lWGtlbh3NNA",
+      "featured": false
+    },
+    {
+      "title": "अजामिल की कथा",
+      "slug": "uPGeEQsUpIA",
+      "category": "Pujya Shri Krishan Chandra Shastri Ji",
+      "youtubeId": "uPGeEQsUpIA",
+      "featured": false
+    },
+    {
+      "title": "DAY 2 || Shrimad Bhagwad Katha",
+      "slug": "day-2-shrimad-bhagwad-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "mwyMTOoRMMg",
+      "featured": false
+    },
+    {
+      "title": "DAY 2 || Shrimad Bhagwad Katha",
+      "slug": "day-2-shrimad-bhagwad-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "SDGlaYvBxhw",
+      "featured": false
+    },
+    {
+      "title": "DAY 2 || Shrimad Bhagwad Katha",
+      "slug": "day-2-shrimad-bhagwad-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "K2lKM9LjOZg",
+      "featured": false
+    },
+    {
+      "title": "DAY 1 || Shrimad Bhagwat Katha",
+      "slug": "day-1-shrimad-bhagwat-katha",
+      "category": "Pujya Shri Thakur Ji",
+      "youtubeId": "PaAWsdng1j8",
+      "featured": false
+    },
+    {
+      "title": "Hume Shyaam Na Mila / Sun Radhika Dulari",
+      "slug": "hume-shyaam-na-mila-sun-radhika-dulari",
+      "category": "Bhaktipath Bhajan",
+      "youtubeId": "RCFOWXpiXII",
+      "featured": false
+    },
+    {
+      "title": "Jaadu Karke",
+      "slug": "jaadu-karke",
+      "category": "Bhaktipath Bhajan",
+      "youtubeId": "yzLLQVm4k2o",
+      "featured": false
+    },
+    {
+      "title": "Shrimad Bhagwat Katha Mahotsav - Day 3",
+      "slug": "shrimad-bhagwat-katha-mahotsav-day-3",
+      "category": "Shri Indresh Upadhyay ji",
+      "youtubeId": "it_Xo09VQgU",
+      "featured": false
+    },
+    {
+      "title": "Shrimad Bhagwat Katha Mahotsav - Day 2",
+      "slug": "shrimad-bhagwat-katha-mahotsav-day-2",
+      "category": "Shri Indresh Upadhyay ji",
+      "youtubeId": "6idYo85ISPM",
+      "featured": false
+    },
+    {
+      "title": "Shrimad Bhagwat Katha Mahotsav - Day 1",
+      "slug": "shrimad-bhagwat-katha-mahotsav-day-1",
+      "category": "Shri Indresh Upadhyay ji",
+      "youtubeId": "BavoY6ZQBG4",
+      "featured": false
+    },
+    {
+      "title": "Govardhan Wasi Sanwarey",
+      "slug": "govardhan-wasi-sanwarey",
+      "category": "Bhaktipath Pad",
+      "youtubeId": "cue_sOMaNs4",
+      "featured": false
+    },
+    {
+      "title": "गिरधर लाल जी के मयूर सिंहासन दर्शन एवं आरती",
+      "slug": "8nPC30R9QWg",
+      "category": "Bhaktipath Aarti",
+      "youtubeId": "8nPC30R9QWg",
+      "featured": false
+    },
+    {
+      "title": "Shri Hari Charcha Katha",
+      "slug": "shri-hari-charcha-katha",
+      "category": "Bhaktipath Katha",
+      "youtubeId": "TmnqUZ6ylwk",
+      "featured": false
+    },
+    {
+      "title": "Vrindavan Rasamrit",
+      "slug": "vrindavan-rasamrit",
+      "category": "Bhaktipath Pad",
+      "youtubeId": "jU3V0n0MP_g",
+      "featured": false
+    },
+    {
+      "title": "Bhramar Geet",
+      "slug": "bhramar-geet",
+      "category": "Bhaktipath Pad",
+      "youtubeId": "N6HQ7Qbl2H8",
+      "featured": false
+    },
+    {
+      "title": "Govind Damodar Madhaveti",
+      "slug": "govind-damodar-madhaveti",
+      "category": "Bhaktipath Pad",
+      "youtubeId": "WcOIWCp2DP8",
+      "featured": false
+    },
+    {
+      "title": "Jhulat Shyam Hindore",
+      "slug": "jhulat-shyam-hindore",
+      "category": "Bhaktipath Pad",
+      "youtubeId": "uF8URJGoTws",
+      "featured": false
+    },
+    {
+      "title": "Geet Govind",
+      "slug": "geet-govind",
+      "category": "Bhaktipath Pad",
+      "youtubeId": "8TEnQKs2pdo",
+      "featured": false
+    }
+  ]
+}

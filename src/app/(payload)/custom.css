@@ -1,0 +1,8 @@
+:root {
+  --theme-success: #6d132d;
+  --theme-success-500: #8f1f3f;
+}
+
+.payload__logo {
+  border-radius: 8px;
+}

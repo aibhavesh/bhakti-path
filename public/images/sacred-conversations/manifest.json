@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-09-25T11:53:09.775Z",
+  "images": [
+    {
+      "key": "girdhar-lal",
+      "name": "Shri Girdhar Lal Ji",
+      "file": "/images/sacred-conversations/girdhar-lal.webp",
+      "alt": "Shri Girdhar Lal Ji murti decorated for Vyahula Utsav",
+      "source": "https://www.youtube.com/watch?v=yhNY2_kCDiE",
+      "rights": "Official/owned Bhaktipath media confirmed by project owner",
+      "treatment": "Portrait crop and web optimization; no generative alteration to the subjects"
+    },
+    {
+      "key": "radha-raman",
+      "name": "Shri Radha Raman Ji",
+      "file": "/images/sacred-conversations/radha-raman.webp",
+      "alt": "Shri Radha Raman Ji murti from the Bhaktipath Radha Ramanam Hare Hare recording",
+      "source": "https://www.youtube.com/watch?v=_CWcBWSKItk",
+      "rights": "Official/owned Bhaktipath media confirmed by project owner",
+      "treatment": "Portrait crop and web optimization; no generative alteration to the subjects"
+    },
+    {
+      "key": "indresh-upadhyay",
+      "name": "Shri Indresh Upadhyay Ji",
+      "file": "/images/sacred-conversations/indresh-upadhyay.webp",
+      "alt": "Shri Indresh Upadhyay Ji in a devotional gathering",
+      "source": "Legacy Bhaktipath owned event photography",
+      "rights": "Official/owned Bhaktipath media confirmed by project owner",
+      "treatment": "Portrait crop and web optimization; no generative alteration to the subjects"
+    }
+  ]
+}

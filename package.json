@@ -2,16 +2,35 @@
   "name": "bhaktipaths-redesign",
   "version": "0.1.0",
   "private": true,
+  "description": "Full-stack Next.js and Payload CMS rebuild of Bhaktipath",
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "payload": "payload",
+    "generate:types": "payload generate:types",
+    "generate:importmap": "payload generate:importmap",
+    "seed": "payload seed",
+    "db:generate": "payload migrate:create",
+    "db:migrate": "payload migrate",
+    "migrate:legacy-content": "node scripts/migrate-legacy-content.mjs",
+    "prepare:sacred-images": "node scripts/prepare-sacred-images.mjs"
   },
   "dependencies": {
+    "@payloadcms/db-sqlite": "^3.90.2",
+    "@payloadcms/next": "^3.90.2",
+    "@payloadcms/richtext-lexical": "^3.90.2",
+    "graphql": "^16.11.0",
+    "lucide-react": "^1.48.0",
     "next": "16.3.6",
+    "payload": "^3.90.2",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "sharp": "^0.35.4",
+    "zod": "^4.6.5"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -20,5 +39,8 @@
     "eslint": "^9",
     "eslint-config-next": "16.3.6",
     "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=20.9.0"
   }
 }
