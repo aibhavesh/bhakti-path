@@ -4,14 +4,10 @@
 
 [build.environment]
   NODE_VERSION = "22"
-  NPM_FLAGS = "--legacy-peer-deps"
-
-[context.production.environment]
-  NODE_ENV = "production"
+  # Netlify may set NODE_ENV=production while installing. Include the
+  # build-time dev tools required by Next.js TypeScript checking.
+  NPM_FLAGS = "--legacy-peer-deps --include=dev"
 
 [functions]
   node_bundler = "esbuild"
   included_files = ["src/migrations/**"]
-
-[context.deploy-preview.environment]
-  NODE_ENV = "production"

@@ -25,6 +25,10 @@ DEPLOYMENT_FREE_TIER.md
 
 Netlify supports the current Next.js App Router, server-side rendering, route handlers, image optimization, and server functions.
 
+## Build dependency note
+
+Netlify can set `NODE_ENV=production` while installing dependencies. The project keeps `typescript`, `@types/react`, and the other build tools in `devDependencies`; `netlify.toml` uses `--include=dev` so those packages remain available during `next build`. Do not remove this flag unless the Netlify build process is changed to install development dependencies explicitly.
+
 ---
 
 # Important deployment distinction
