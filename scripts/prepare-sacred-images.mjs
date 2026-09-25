@@ -1,3 +1,4 @@
+import { existsSync } from 'node:fs'
 import { mkdir, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -5,7 +6,10 @@ import sharp from 'sharp'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const outputDirectory = path.join(root, 'public', 'images', 'sacred-conversations')
-const legacyRoot = path.resolve(root, '..', 'bhaktipaths.com')
+const legacyRoot = [
+  path.resolve(root, '..', 'bhaktipath.com.olddesign'),
+  path.resolve(root, '..', 'bhaktipaths.com'),
+].find((candidate) => existsSync(candidate))
 
 await mkdir(outputDirectory, { recursive: true })
 
