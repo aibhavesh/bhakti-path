@@ -21,7 +21,7 @@ The new application is based on Next.js and TypeScript, with Payload CMS providi
 The legacy website remains untouched inside:
 
 ```text
-D:\Bhaktipath\bhaktipaths.com
+D:\Bhaktipath\bhaktipath.com.olddesign
 ```
 
 ---
@@ -104,7 +104,7 @@ The new homepage includes:
 
 The homepage also includes the new **A Living Dialogue** section, built from extracted official/owned portraits of:
 
-- Shri Girdhar Lal Ji
+- Shri Girdhar Lal Ji (high-resolution user-provided `bhaktipath.online/design-reference/webp/ShriGirdharLalJi.webp`)
 - Shri Radha Raman Ji
 - Shri Indresh Upadhyay Ji
 
