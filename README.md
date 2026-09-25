@@ -5,6 +5,8 @@ Full-stack Next.js and Payload CMS rebuild of the Bhaktipath website.
 ## Included
 
 - Responsive redesigned homepage
+- Cylindrical Bhaktipath logo treatment in the header and loading screen
+- 3D Divine Darshan presentation for Shri Girdhar Lal Ji with perspective, halos, pedestal, reflection, and reduced-motion support
 - Original “A Living Dialogue” section using extracted official/owned portraits of Shri Girdhar Lal Ji, Shri Radha Raman Ji, and Shri Indresh Upadhyay Ji
 - About, schedule, event detail, audio, video, contact, registration, privacy, and 404 pages
 - Payload CMS administration at `/admin`

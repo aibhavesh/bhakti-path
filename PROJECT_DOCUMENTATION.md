@@ -102,6 +102,10 @@ The new homepage includes:
 - Responsive desktop and mobile navigation
 - Accessible focus states and reduced-motion support
 
+The homepage also includes a dedicated **Divine Darshan** 3D presentation of Shri Girdhar Lal Ji using the high-resolution uploaded image. It uses CSS perspective, rotating halos, a cylindrical pedestal, a soft reflection, and reduced-motion support.
+
+The Bhaktipath logo mark in the header and loading screen is also rendered with a subtle cylindrical treatment and a pure white background.
+
 The homepage also includes the new **A Living Dialogue** section, built from extracted official/owned portraits of:
 
 - Shri Girdhar Lal Ji (high-resolution user-provided `bhaktipath.online/design-reference/webp/ShriGirdharLalJi.webp`)

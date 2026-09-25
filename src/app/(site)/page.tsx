@@ -1,6 +1,7 @@
 import { AboutPreview } from '@/components/home/AboutPreview'
 import { EventsPreview } from '@/components/home/EventsPreview'
 import { HomeHero } from '@/components/home/HomeHero'
+import { GirdharLalShrine } from '@/components/home/GirdharLalShrine'
 import { MediaPreview } from '@/components/home/MediaPreview'
 import { RegistrationBanner } from '@/components/home/RegistrationBanner'
 import { SacredConversations } from '@/components/home/SacredConversations'
@@ -20,6 +21,7 @@ export default async function HomePage() {
     <main id="main-content">
       <HomeHero />
       <AboutPreview />
+      <GirdharLalShrine />
       <SacredConversations />
       <EventsPreview events={events} />
       <MediaPreview tracks={tracks} videos={videos} />

@@ -48,6 +48,23 @@
 }
 
 @media (max-width: 900px) {
+  .girdhar-shrine-section {
+    padding: 105px 0 95px;
+  }
+
+  .girdhar-shrine-section__grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .girdhar-shrine-section__copy {
+    max-width: 650px;
+  }
+
+  .girdhar-shrine {
+    min-height: 650px;
+  }
+
   .sacred-conversations {
     padding: 105px 0 90px;
   }
@@ -223,6 +240,31 @@
 }
 
 @media (max-width: 720px) {
+  .girdhar-shrine-section {
+    padding: 86px 0 76px;
+  }
+
+  .girdhar-shrine-section__copy h2 {
+    font-size: clamp(2.7rem, 13vw, 4.2rem);
+  }
+
+  .girdhar-shrine {
+    min-height: 570px;
+  }
+
+  .girdhar-shrine__murti-wrap {
+    width: min(82%, 430px);
+  }
+
+  .girdhar-shrine__pedestal {
+    width: min(70%, 380px);
+  }
+
+  .girdhar-shrine__caption {
+    right: 0;
+    bottom: 8px;
+  }
+
   .sacred-conversations {
     padding: 88px 0 78px;
   }
@@ -563,6 +605,33 @@
 }
 
 @media (max-width: 520px) {
+  .girdhar-shrine {
+    min-height: 500px;
+  }
+
+  .girdhar-shrine__murti-wrap {
+    width: min(94%, 390px);
+  }
+
+  .girdhar-shrine__ring {
+    width: min(94%, 390px);
+  }
+
+  .girdhar-shrine__ring--inner {
+    width: min(78%, 325px);
+  }
+
+  .girdhar-shrine__pedestal {
+    width: min(75%, 330px);
+    height: 90px;
+  }
+
+  .girdhar-shrine__caption {
+    right: 50%;
+    bottom: 4px;
+    transform: translateX(50%);
+  }
+
   .sacred-conversations__intro-copy span {
     font-size: 0.88rem;
     letter-spacing: 0.02em;
