@@ -1,0 +1,17 @@
+[build]
+  command = "npm run netlify:build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NPM_FLAGS = "--legacy-peer-deps"
+
+[context.production.environment]
+  NODE_ENV = "production"
+
+[functions]
+  node_bundler = "esbuild"
+  included_files = ["src/migrations/**"]
+
+[context.deploy-preview.environment]
+  NODE_ENV = "production"

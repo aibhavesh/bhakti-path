@@ -41,6 +41,16 @@ Open:
 
 The local seed administrator email is `admin@bhaktipaths.local`; its development password is stored in the ignored `.env` file.
 
+## Deploy to Netlify
+
+The project includes `netlify.toml` and a Netlify-aware build wrapper. Push this folder to GitHub, import the repository into Netlify, and Netlify will detect the Next.js settings automatically.
+
+For a public preview, deploy without production secrets first. For the full Payload CMS, configure Turso and Cloudflare R2 as described in:
+
+[`DEPLOYMENT_NETLIFY.md`](./DEPLOYMENT_NETLIFY.md)
+
+The local `file:./bhaktipath.db` database and local upload directories must not be used as the production Netlify database or media storage.
+
 ## Validation
 
 ```bash
